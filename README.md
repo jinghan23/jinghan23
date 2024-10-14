@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=jinghan23&color=ff69b4&label=Visitors&base=23)
 
 - 😄 I'm a PhD student at HKUST CSE department, supervised by [Junxian He](https://jxhe.github.io/). 
-- 🔭 I’m currently working on model merging and large language models. 
+- 🔭 I’m currently working on long context and visual language models. 
 - 📫 How to reach me: Please refer to [my personal site](http://jinghan23.github.io) and [my twitter/X](https://twitter.com/jinghan23).
 - ⚡ Fun fact: constantly developing brief yet intense passions for a wide variety of interests: chess, Deutsch learning, archery, soccer, rowing, skiing...
