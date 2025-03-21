@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=jinghan23&color=ff69b4&label=Visitors&base=23)
+![](https://komarev.com/ghpvc/?username=jinghan23&color=ff69b4&label=Visitors)
 
 - 😄 I'm a PhD student at HKUST CSE department, supervised by [Junxian He](https://jxhe.github.io/). 
 - 🔭 I’m currently working on long context and visual language models. 
